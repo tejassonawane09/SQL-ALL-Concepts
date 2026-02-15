@@ -129,7 +129,3 @@ rows.
 
 ------------------------------------------------------------------------
 
-## Final Interview Tip
-
-Explain logic clearly before writing query. Interviewers check
-understanding, not memorization.

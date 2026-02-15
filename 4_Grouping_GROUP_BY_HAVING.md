@@ -1,4 +1,4 @@
-# SQL Fundamentals -- Grouping (GROUP BY & HAVING)
+# SQL Fundamentals -- Grouping 
 
 ## 1. GROUP BY
 

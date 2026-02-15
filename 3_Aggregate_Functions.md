@@ -1,4 +1,4 @@
-# 🔹 3. Aggregate Functions (SQL)
+# 🔹 3. Aggregate Functions 
 
 ## ✅ What Are Aggregate Functions?
 Aggregate functions perform calculations on multiple rows and return **a single value** (a summary).
@@ -211,5 +211,5 @@ FROM employee;
 
 ---
 
-## 🎯 One Final Interview Summary
+## 🎯 Final Summary
 Aggregate functions summarize data across multiple rows and return a single value. Common aggregates are `COUNT`, `SUM`, `AVG`, `MIN`, and `MAX`. They are often combined with `GROUP BY` for grouped summaries and ignore `NULL` values.

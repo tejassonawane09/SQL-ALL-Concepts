@@ -1,4 +1,4 @@
-# SQL Joins -- Interview Notes
+# SQL Joins 
 
 ## Why Joins Are Important
 
@@ -142,7 +142,7 @@ CROSS JOIN returns all possible combinations of rows from both tables.
 
 ------------------------------------------------------------------------
 
-## Final Interview Summary
+## Final Summary
 
 Joins are used to combine data from multiple tables based on related
 columns. INNER JOIN returns matched records, LEFT and RIGHT JOIN include

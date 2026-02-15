@@ -1,4 +1,4 @@
-# SQL Fundamentals — Basic Querying (Interview Notes)
+# SQL Fundamentals — Basic Querying
 
 > Topics covered: SELECT, WHERE, ORDER BY, LIMIT/OFFSET, DISTINCT, Alias, BETWEEN, IN/NOT IN, LIKE, IS NULL  
 > Examples are based on the `employee` table shown below.
@@ -320,6 +320,6 @@ WHERE salary IS NULL;
 
 ---
 
-## Quick Interview Summary (One Flow)
+## Quick Interview Summary 
 
 Basic querying in SQL includes retrieving data using `SELECT`, filtering using `WHERE`, sorting using `ORDER BY`, controlling output size using `LIMIT/OFFSET`, removing duplicates with `DISTINCT`, improving readability with `Alias`, range filtering using `BETWEEN`, multi-value filtering using `IN/NOT IN`, pattern matching using `LIKE`, and handling missing values using `IS NULL`.

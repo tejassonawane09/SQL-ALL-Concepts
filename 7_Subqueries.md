@@ -1,5 +1,5 @@
 
-# 🔹 SQL Subqueries – Interview Ready Notes
+# 🔹 SQL Subqueries 
 
 ## What is a Subquery?
 
@@ -156,7 +156,7 @@ WHERE salary < (
 
 ---
 
-# Final Interview Summary
+# Final Summary
 
 A subquery is a query written inside another query.  
 It executes first and passes its result to the outer query.  

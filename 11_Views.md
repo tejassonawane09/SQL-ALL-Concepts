@@ -1,4 +1,4 @@
-# 🔹 11. Views in SQL (Complete Interview Notes)
+# 🔹 11. Views in SQL 
 
 ------------------------------------------------------------------------
 
@@ -142,7 +142,7 @@ Now inserting non-IT data will give an error.
 
 ------------------------------------------------------------------------
 
-# 🎯 Interview Summary Answer
+# 🎯 Summary Answer
 
 A view is a virtual table created using a SELECT statement. It does not
 store data physically but retrieves data dynamically from underlying

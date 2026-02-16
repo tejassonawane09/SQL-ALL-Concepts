@@ -1,4 +1,4 @@
-# 🔹 14. User Defined Functions (UDF) in SQL
+# User Defined Functions (UDF) in SQL
 
 ## ✅ What is a User Defined Function (UDF)?
 
@@ -153,7 +153,7 @@ DELIMITER ;
 
 ------------------------------------------------------------------------
 
-# 🔹 Interview Summary Answer
+# 🔹 Summary Answer
 
 A user-defined function is a reusable SQL block that returns a single
 value. It accepts parameters and is used inside queries for

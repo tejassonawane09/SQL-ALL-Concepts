@@ -1,4 +1,4 @@
-# SQL Window Functions - Complete Interview Notes
+# SQL Window Functions
 
 ## 1. Introduction to Window Functions
 
@@ -128,7 +128,7 @@ Returns percentage rank using formula: (rank - 1) / (total_rows - 1)
 
 ------------------------------------------------------------------------
 
-## Important Interview Points
+## Important Points
 
 -   Window functions do not reduce rows.
 -   They require OVER() clause.

@@ -1,4 +1,4 @@
-# 🔹 18. Advanced Database Concepts
+# Advanced Database Concepts
 
 ## 1️⃣ Normalization
 
@@ -96,7 +96,7 @@ Used in distributed and scalable systems.
 
 ------------------------------------------------------------------------
 
-## Final Interview Summary
+## Final Summary
 
 Advanced database concepts include normalization for data integrity,
 denormalization for performance, locking mechanisms for concurrency

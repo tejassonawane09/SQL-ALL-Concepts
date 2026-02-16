@@ -1,4 +1,4 @@
-# 🔹 16. Transactions in SQL
+# Transactions in SQL
 
 ## ✅ What is a Transaction?
 

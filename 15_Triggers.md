@@ -1,4 +1,4 @@
-# 🔹 15. TRIGGERS IN SQL
+# TRIGGERS IN SQL
 
 ## ✅ What is a Trigger?
 

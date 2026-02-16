@@ -1,4 +1,4 @@
-# SQL Date Functions -- Complete Interview Notes
+# SQL Date Functions 
 
 ## 1. NOW()
 
@@ -113,7 +113,7 @@ Example: SELECT DAY(order_date) FROM orders;
 
 ------------------------------------------------------------------------
 
-# Final Interview Summary
+# Final Summary
 
 Date functions are used to manipulate and analyze time-based data. They
 help in filtering recent records, calculating durations, extracting date

@@ -102,7 +102,7 @@ scanned
 
 ------------------------------------------------------------------------
 
-## 🎯 Final Interview Summary
+## 🎯 Final Summary
 
 Indexing improves query performance by reducing data scan time.\
 Clustered index controls physical order of data, while non-clustered

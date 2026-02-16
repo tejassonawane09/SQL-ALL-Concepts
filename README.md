@@ -91,13 +91,6 @@ All notes are organized into **separate topic-wise Markdown files**, so you can 
 
 ---
 
-## 📌 Next Updates (Optional)
-- More interview problems (company-wise)
-- Case-study SQL questions
-- Advanced optimization examples
-
----
-
 ## 👨‍💻 Created By
 **Tejas Sonawane**  
 www.linkedin.com/in/tejas-sonawane09

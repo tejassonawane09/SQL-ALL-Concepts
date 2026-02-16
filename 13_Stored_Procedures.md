@@ -1,4 +1,4 @@
-# SQL Stored Procedures -- Complete Interview Notes
+# SQL Stored Procedures 
 
 ## 1. What is a Stored Procedure?
 

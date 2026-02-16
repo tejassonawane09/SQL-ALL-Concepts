@@ -1,5 +1,5 @@
 
-# SQL String Functions – Interview Ready Notes
+# SQL String Functions 
 
 ## 1. CONCAT()
 Used to combine two or more strings.

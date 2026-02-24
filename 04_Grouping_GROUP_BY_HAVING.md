@@ -74,11 +74,11 @@ IT → 95000
 
 ## Difference Between WHERE and HAVING
 
-  WHERE                            HAVING
+  1] WHERE                           2] HAVING
   -------------------------------- -----------------------------
-  Filters rows                     Filters groups
-  Used before GROUP BY             Used after GROUP BY
-  Cannot use aggregate functions   Can use aggregate functions
+  1] Filters rows ,                    Filters groups
+  2] Used before GROUP BY  ,           Used after GROUP BY
+  3] Cannot use aggregate functions ,  Can use aggregate functions
 
 ------------------------------------------------------------------------
 

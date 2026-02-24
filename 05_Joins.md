@@ -133,12 +133,12 @@ CROSS JOIN returns all possible combinations of rows from both tables.
 
   Join Type   Result
   ----------- ---------------------------
-  INNER       Only matching rows
-  LEFT        All left + matching right
-  RIGHT       All right + matching left
-  FULL        All rows from both
-  SELF        Table joined with itself
-  CROSS       Cartesian product
+  1.INNER       Only matching rows
+  2.LEFT        All left + matching right
+  3.RIGHT       All right + matching left
+  4.FULL        All rows from both
+  5.SELF        Table joined with itself
+  6.CROSS       Cartesian product
 
 ------------------------------------------------------------------------
 

@@ -135,9 +135,9 @@ Retest performance
 
   Full Table Scan         Index Scan
   ----------------------- --------------------------
-  Reads all rows          Reads matching rows only
-  Slow on large tables    Faster
-  Happens without index   Requires index
+  1] Reads all rows,          Reads matching rows only
+  2] Slow on large tables,    Faster
+  3] Happens without index,   Requires index
 
 ------------------------------------------------------------------------
 

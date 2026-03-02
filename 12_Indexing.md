@@ -82,8 +82,10 @@ Example: If index is on (dept, salary): - Query using dept → Uses index\
 
 Displays query execution plan.
 
-Helps identify: - Whether index is used - Scan type - Estimated rows
-scanned
+Helps identify: 
+- Whether index is used
+- Scan type
+- Estimated rows scanned
 
 ------------------------------------------------------------------------
 

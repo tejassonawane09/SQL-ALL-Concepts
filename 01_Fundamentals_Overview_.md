@@ -5,8 +5,12 @@
 SQL (Structured Query Language) is used to communicate with relational
 databases.
 
-It is used to: - Store data - Retrieve data - Update data - Delete
-data - Control access to data
+It is used to: 
+- Store data
+- Retrieve data
+- Update data
+- Delete data
+- Control access to data
 
 ### Interview Answer:
 

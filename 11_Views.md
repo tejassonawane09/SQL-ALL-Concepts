@@ -6,8 +6,10 @@
 
 A View is a virtual table created using a SELECT query.
 
-Important: - A view does NOT store data physically. - It stores only the
-query. - When you query a view, it runs the underlying SELECT statement.
+Important: 
+- A view does NOT store data physically.
+- It stores only the query.
+- When you query a view, it runs the underlying SELECT statement.
 
 ------------------------------------------------------------------------
 

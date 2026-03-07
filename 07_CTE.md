@@ -10,8 +10,11 @@ Basic Syntax:
 
 WITH cte_name AS ( SELECT column FROM table ) SELECT \* FROM cte_name;
 
-Why we use CTE: - Improves readability - Breaks complex queries into
-parts - Reusable within same query - Handles hierarchical data
+Why we use CTE:
+- Improves readability
+- Breaks complex queries into parts 
+- Reusable within same query
+- Handles hierarchical data
 
 ------------------------------------------------------------------------
 

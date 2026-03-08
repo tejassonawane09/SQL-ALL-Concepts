@@ -5,8 +5,11 @@
 A User Defined Function is a custom function created by the user inside
 the database.
 
-It: - Accepts input parameters - Returns a single value - Can be used
-inside SELECT statements - Helps reuse business logic
+It: 
+- Accepts input parameters
+- Returns a single value
+- Can be used inside SELECT statements
+- Helps reuse business logic
 
 Think of it like a reusable calculation block inside the database.
 

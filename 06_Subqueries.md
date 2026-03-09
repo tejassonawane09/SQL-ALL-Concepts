@@ -89,8 +89,66 @@ WHERE e1.salary > (
 A correlated subquery refers to a subquery that uses values from the outer query and executes once for each row.
 
 ---
+# 4️⃣ Scalar Subquery
 
-# 4️⃣ EXISTS
+### Definition:
+A subquery that returns exactly one value (1 row, 1 column).
+
+## Example
+
+```sql
+SELECT name,
+       (SELECT AVG(salary) FROM employees) AS avg_salary
+FROM employees;
+```
+
+---
+
+
+# 5️⃣ Inline Subquery (Subquery in FROM)
+
+### Definition:
+A subquery used inside the FROM clause.
+
+Also called Derived Table.
+
+### Example
+
+```sql
+SELECT dept_id, AVG(salary)
+FROM (
+    SELECT dept_id, salary
+    FROM employees
+) AS temp
+GROUP BY dept_id;
+```
+
+---
+
+# 6️⃣ Nested Subquery
+
+### Definition:
+A subquery inside another subquery.
+
+### Example
+
+```sql
+SELECT name
+FROM employees
+WHERE dept_id IN (
+    SELECT dept_id
+    FROM departments
+    WHERE location = (
+        SELECT location
+        FROM offices
+        WHERE office_id = 1
+    )
+);
+```
+
+---
+
+# EXISTS
 
 ### Definition:
 Checks whether the subquery returns any row.
@@ -112,7 +170,7 @@ EXISTS checks whether a subquery returns any row and stops execution after findi
 
 ---
 
-# 5️⃣ IN
+# IN
 
 ### Definition:
 Checks if a value matches any value returned by the subquery.
